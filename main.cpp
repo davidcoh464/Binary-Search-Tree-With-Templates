@@ -1,5 +1,3 @@
-/*David Cohen ID:311209142
-The program build a tree for all type and than build a string class and oporat the tree in strings values */
 #include <iostream>
 #include<string>
 using namespace std;
